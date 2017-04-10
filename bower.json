@@ -1,0 +1,8 @@
+{
+  "name": "ember-app",
+  "dependencies": {
+    "ember": "~2.9.0",
+    "ember-data": "~2.9.0",
+    "jquery": "1.11.3"
+  }
+}
